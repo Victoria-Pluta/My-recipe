@@ -1,4 +1,5 @@
 What I learned
+
 -Built a second mini-site with zero layout help—just clean, semantic HTML.
 
 -Practised ordered & unordered lists, proper heading hierarchy, and alt text.
